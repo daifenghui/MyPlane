@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">飞机大战</string>
+    <string name="rank_name">排行榜</string>
+    <string name="go_back">返回</string>
+    <string name="rank">排名</string>
+    <string name="player_name">玩家昵称</string>
+    <string name="score">得分</string>
+    <string name="title_activity_keep_record">KeepRecordActivity</string>
+    <string name="title_activity_record">保存记录</string>
+    <string name="startGame">开始游戏</string>
+    <string name="exitGame">退出游戏</string>
+    <string name="changeLanguage">切换语言</string>
+    <string name="time">时间</string>
+    <string name="savesuccess">保存成功</string>
+    <string name="name_is_empty">昵称不能为空</string>
+    <string name="save_record">保存游戏记录</string>
+    <string name="gamer_name">玩家昵称:</string>
+    <string name="your_score">您的分数:</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="goback_menu">回到菜单</string>
+    <string name="restart">重新开始</string>
+    <string name="game_over">游戏失败</string>
+    <string name="add_widget">Add widget</string>
+    <string name="appwidget_text">小部件</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startGame">Start</string>
+    <string name="exitGame">Exit</string>
+    <string name="changeLanguage">Language</string>
+    <string name="rank_name">Rank</string>
+    <string name="time">Time</string>
+    <string name="score">Score</string>
+    <string name="savesuccess">saved success</string>
+    <string name="name_is_empty">the name cannot be empty</string>
+    <string name="save_record">Save Record</string>
+    <string name="gamer_name">Gamer:</string>
+    <string name="your_score">Your Score:</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="goback_menu">Menu</string>
+    <string name="restart">Restart</string>
+    <string name="game_over">Game Over</string>
+    <string name="rank">Rank</string>
+    <string name="player_name">Player</string>
+
+</resources>
